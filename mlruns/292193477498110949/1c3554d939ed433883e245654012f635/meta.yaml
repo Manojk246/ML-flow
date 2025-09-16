@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/AI%20workforce/ML-flow/mlruns/292193477498110949/1c3554d939ed433883e245654012f635/artifacts
+end_time: 1757956130349
+entry_point_name: ''
+experiment_id: '292193477498110949'
+lifecycle_stage: active
+run_id: 1c3554d939ed433883e245654012f635
+run_name: ridge
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757956119560
+status: 3
+tags: []
+user_id: Manoj

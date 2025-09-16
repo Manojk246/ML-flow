@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/AI%20workforce/ML-flow/mlruns/292193477498110949/0ed8e328aa534502836fa16d803f242e/artifacts
+end_time: 1757956119550
+entry_point_name: ''
+experiment_id: '292193477498110949'
+lifecycle_stage: active
+run_id: 0ed8e328aa534502836fa16d803f242e
+run_name: gradient_boosting
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757956109281
+status: 3
+tags: []
+user_id: Manoj

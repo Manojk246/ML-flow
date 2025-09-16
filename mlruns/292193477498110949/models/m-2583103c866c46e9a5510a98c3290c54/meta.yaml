@@ -1,0 +1,10 @@
+artifact_location: file:///C:/AI%20workforce/ML-flow/mlruns/292193477498110949/models/m-2583103c866c46e9a5510a98c3290c54/artifacts
+creation_timestamp: 1757955156731
+experiment_id: '292193477498110949'
+last_updated_timestamp: 1757955178544
+model_id: m-2583103c866c46e9a5510a98c3290c54
+model_type: null
+name: model
+source_run_id: a6e3ae17b8814ffbae3672c6bb00f745
+status: 2
+status_message: null

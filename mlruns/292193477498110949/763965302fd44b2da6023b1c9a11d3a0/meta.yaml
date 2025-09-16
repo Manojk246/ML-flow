@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/AI%20workforce/ML-flow/mlruns/292193477498110949/763965302fd44b2da6023b1c9a11d3a0/artifacts
+deleted_time: 1757959358270
+end_time: 1757955212807
+entry_point_name: ''
+experiment_id: '292193477498110949'
+lifecycle_stage: deleted
+run_id: 763965302fd44b2da6023b1c9a11d3a0
+run_name: svr
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757955202764
+status: 3
+tags: []
+user_id: Manoj

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/AI%20workforce/ML-flow/mlruns/292193477498110949/fc08ce73d7c54aeda06665ee595d4127/artifacts
+end_time: 1757956109273
+entry_point_name: ''
+experiment_id: '292193477498110949'
+lifecycle_stage: active
+run_id: fc08ce73d7c54aeda06665ee595d4127
+run_name: random_forest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757956089387
+status: 3
+tags: []
+user_id: Manoj
