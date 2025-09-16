@@ -76,7 +76,6 @@ with gr.Blocks() as demo:
             btn = gr.Button("Predict")
             output_text = gr.Textbox(label="Result")
 
-    # Button Actions
     login_btn.click(fn=login, inputs=[username, password], outputs=[login_msg, app_page])
     btn.click(fn=predict, inputs=[model_choice] + inputs, outputs=[output_text])
 
